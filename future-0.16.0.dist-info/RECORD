@@ -214,8 +214,8 @@ past/types/basestring.py,sha256=xOkJDFG8tt5BLuVZqC5jde_pvb8y40Bsra0hhIgYDYY,729
 past/types/olddict.py,sha256=dDoOf3IA_5IIhNjJlQ6760BRLTjtqJvvLazgbRL0Xg4,2735
 past/types/oldstr.py,sha256=duI2OPxLdhI9gRjjoaQLFqTIZen9Q7lsA3MWmn3EjNk,4300
 past/utils/__init__.py,sha256=xRXg5E9UCG2tKdm1WBHMzyoA6_V-jtGmZ1rx80TqbKQ,2665
-../../bin/futurize.exe,sha256=e5HUQQLUXXL7nud5GTCN-iKfpm__wsJFaS2GTS_NVI0,98151
-../../bin/pasteurize.exe,sha256=loAwOjSanOJSGhPhYYM54k9QGHsAXO0F9rBbkaFrKuM,98153
+../../bin/futurize.exe,sha256=G82J-X4h6PRgMJEHb4mnd9wGt9lct26j6ei1ZURfKVo,98151
+../../bin/pasteurize.exe,sha256=bXlYxbmxEZ475NflenA2O4uLp0q__DsCwq2Rjo8P01s,98153
 future-0.16.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
 future/backports/email/mime/__pycache__/application.cpython-36.pyc,,
 future/backports/email/mime/__pycache__/audio.cpython-36.pyc,,
